@@ -24,24 +24,9 @@ Welcome to my GitHub profile! I'm a **Junior studying Computer Science at Portla
 
 ## 🌱 Current Projects and Interests
 
-- Designing **'Elemental Battle'**, a Pokémon-inspired RPG exploring elemental type matchups and strategic gameplay.
 - Building a **React Native macro tracker app** to help users monitor and achieve their dietary goals.
 - Enhancing my skills in **modern C++**, **Python scripting**, and **data structures**.
-
----
-
-## 🎓 Achievements
-
-- **Dean's List** honoree every term at Portland Community College.
-- Active member of the **Computer Science Club** at PSU, collaborating on innovative projects and sharing knowledge with peers.
-- Successfully juggled being an Early College High School student, completing an associate degree alongside a high school diploma.
-
----
-
-## 🐾 Fun Fact
-
-I share my workspace with a black cat who occasionally "helps" with debugging (or just naps on my keyboard).
-
+  
 ---
 
 ## 📫 Connect with Me
