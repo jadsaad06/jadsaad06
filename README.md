@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Junior studying Computer Science at Portla
 
 ---
 
-## 🚀 Languages I Work With
+## 🚀 Languages
 
 - **C++**: Tackling complex algorithms and efficient system-level programming.
 - **Python**: Automating tasks and solving problems with simplicity and elegance.
