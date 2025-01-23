@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm a **Junior studying Computer Science at Portla
 
 ## 🌱 Current Projects and Interests
 
-- Building a **React Native macro tracker app** to help users monitor and achieve their dietary goals.
+- Cooperating with 2 peers to create a **React Native Macro/Fitness Tracker and Meal Prepper Application** to help users monitor and achieve their fitness and health goals.
+- Building a **Live Chatting Website** using the **MERN (MongoDB, Express, React, Node.js)** Framework to further my knowledge and get closer to creating a social media website
 - Enhancing my skills in **modern C++**, **Python scripting**, and **data structures**.
   
 ---
