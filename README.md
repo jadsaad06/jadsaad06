@@ -1,4 +1,4 @@
- # Hi there! 👋
+ # Hello I'm Jad! 👋
 
 Welcome to my GitHub profile! I'm a **Junior studying Computer Science at Portland State University**, passionate about building creative, efficient, and impactful software solutions. Whether it's crafting immersive games, dynamic web applications, or algorithms that solve real-world problems, I enjoy every step of the journey.
 
