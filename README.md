@@ -34,4 +34,7 @@ Welcome to my GitHub profile! I'm a **Junior studying Computer Science at Portla
 
 Feel free to explore my repositories or contact me if you'd like to collaborate, chat about tech, or geek out about game design and programming!
 
+- **LinkedIn**: [linkedin.com/in/jadsaad06](https://www.linkedin.com/in/jad-saad-/)
+- **Email**: [jadsaad896@gmail.com](mailto:jadsaad896@gmail.com)
+
 ---
