@@ -75,4 +75,4 @@
 
 ---
 
-<h3 align="center">Let’s connect & collaborate</h3>
+<h3 align="center">Let’s connect & collaborate!</h3>
