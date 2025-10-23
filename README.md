@@ -15,16 +15,14 @@
 
 ---
 
-### 🧠 About Me
+### Currently Working On
 
-- 🎮 Built **Elemental Battle**, a C++ turn-based RPG with BSTs & memory management
-- 🍽️ Created **Prep&Count**, an AI fitness tracker using OpenAI + React Native
-- 🔐 Exploiting the web one SSRF at a time (XSS, CSRF, XXE, deserialization…)
-- 🌐 Full-stack MERN dev who can dive into the kernel if needed
+- AI Fishbowl (Portland State CS Chatbot)
+- Personal Portfolio
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
@@ -38,7 +36,7 @@
 
 ---
 
-### 🧪 Projects I’ve Shipped
+### Projects I’ve Completed
 
 | Project            | Description                                                                 | Tech Used                                     |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
@@ -49,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Activity (click to expand)
+### GitHub Activity
 
   <br>
   <p align="center">
@@ -59,19 +57,11 @@
 
 ---
 
-### 💭 Fun Facts
-
-- 🧠 I debug C++ memory leaks like a cryptid hunter: flashlight, footprints, and a sixth sense.
-- 🕶️ AI isn’t hype — I bake it into real, working apps.
-- 🛠️ Vim, VSCode, or GDB — whatever gets the job done.
-
----
-
 ### 🔍 Current Interests
 
-- 🛡️ Penetration testing & secure backend design  
-- ⚙️ Low-level system programming  
-- 🤖 Heuristic design for smarter agents & interpreters  
+- Penetration testing & secure backend design  
+- AI Applications
+- Heuristic design for smarter agents & interpreters  
 
 ---
 
