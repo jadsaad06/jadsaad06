@@ -17,7 +17,7 @@
 
 ### Currently Working On
 
-- AI Fishbowl (Portland State CS Chatbot)
+- AI Fishbowl (Interactive real-time AI Kiosk to be placed in PSU to help CS students with PSU-related questions)
 - Personal Portfolio
 
 ---
