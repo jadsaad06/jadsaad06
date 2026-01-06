@@ -65,20 +65,9 @@ Role: **Capstone Team Lead & Product Lead**
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jadsaad06&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🔍 Current Interests
 
 - AI-powered developer tools and education products  
 - Secure backend systems and API design  
 - Agent reasoning, heuristics, and interpreters  
 
----
-
-<h3 align="center">Let’s build something meaningful.</h3>
