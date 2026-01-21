@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Product-minded engineer building AI-driven systems with real-world impact.</strong>
+  <strong>Product-minded engineer building AI systems and studying how learning actually happens under the hood.</strong>
 </p>
 
 <p align="center">
@@ -25,16 +25,19 @@
 
 **AI Fishbowl**  
 Interactive, real-time AI kiosk deployed at PSU to help CS students with department-specific questions.  
-Built with multimodal AI (STT, TTS, LLM reasoning), MCP-based orchestration, and on-device hardware integration.
-
+Built with multimodal AI (STT, TTS, LLM reasoning), MCP-based orchestration, and on-device hardware integration.  
 Role: **Capstone Team Lead & Product Lead**
+
+**Deep Learning Final Project**  
+Studying how neural networks forget and relearn by training a vision model on sequential image classification tasks and analyzing how performance and internal representations change over time. The project tracks accuracy decay and recovery, probes what different layers retain, and compares representations before and after relearning to understand where information is lost and whether recovery restores the same features or learns new ones.
 
 ---
 
 ## 🧠 Technical Focus
 
-- AI agents, LLM orchestration, and multimodal systems  
-- Backend APIs, infrastructure, and deployment pipelines  
+- Multimodal AI systems, agents, and model orchestration  
+- Learning dynamics, representation analysis, and interpretability  
+- Backend APIs, infrastructure, and production-grade deployment  
 - Clean architecture, documentation, and ownership-driven development  
 
 ---
@@ -57,7 +60,7 @@ Role: **Capstone Team Lead & Product Lead**
 ## 🚀 Selected Projects
 
 | Project | Description | Tech |
-|-------|------------|------|
+|--------|-------------|------|
 | **Elemental Battle** | Turn-based RPG with card mechanics, AI matchups, and custom data structures | C++, OOP, STL, Valgrind, GDB |
 | **Prep&Count** | AI-powered meal prep & macro tracking app | React Native, Node.js, Express, OpenAI |
 | **Bond** | Real-time chat platform with authentication and sockets | MERN, WebSockets, JWT |
@@ -67,7 +70,7 @@ Role: **Capstone Team Lead & Product Lead**
 
 ## 🔍 Current Interests
 
-- AI-powered developer tools and education products  
-- Secure backend systems and API design  
-- Agent reasoning, heuristics, and interpreters  
-
+- Learning dynamics and interpretability in deep neural networks  
+- AI-powered developer tools and education platforms  
+- Secure backend systems and scalable API design  
+- Agent reasoning, heuristics, and language-based control systems  
