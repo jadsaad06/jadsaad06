@@ -61,10 +61,11 @@ Studying how neural networks forget and relearn by training a vision model on se
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Elemental Battle** | Turn-based RPG with card mechanics, AI matchups, and custom data structures | C++, OOP, STL, Valgrind, GDB |
-| **Prep&Count** | AI-powered meal prep & macro tracking app | React Native, Node.js, Express, OpenAI |
-| **Bond** | Real-time chat platform with authentication and sockets | MERN, WebSockets, JWT |
-| **Security Labs** | Exploit automation and attack simulations | Python, Flask, Requests, Burp Suite |
+| **AI Fishbowl** | Multimodal AI kiosk for CS students with speech, reasoning, and real-time interaction; led system architecture and product direction | FastAPI, MCP, Whisper, TTS, LLMs, Jetson, Electron |
+| **MediaLens** | News analysis platform exploring bias and framing using NLP and explainable AI techniques | Python, FastAPI, Transformers, SHAP, PostgreSQL |
+| **Prep&Count** | AI-powered meal prep and macro tracking app with mobile-first UX and backend services | React Native, Node.js, Express, OpenAI |
+| **Elemental Battle** | Turn-based RPG with custom data structures, memory management, and debugging workflows | C++, OOP, STL, Valgrind, GDB |
+
 
 ---
 
